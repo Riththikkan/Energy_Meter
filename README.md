@@ -3,7 +3,7 @@
 
 An advanced ESP32-based energy monitor that tracks voltage, current, power, energy (kWh), temperature, humidity, and **automatically calculates the electricity bill**. Data is displayed on an LCD and also sent to **Firebase Realtime Database** for remote monitoring.
 
-![banner](docs/banner.png) <!-- Optional visual banner if you have one -->
+
 
 ---
 
@@ -164,19 +164,13 @@ These are saved automatically and loaded on startup.
 
 ## 📊 Output Example (Serial Monitor)
 
-```
+
 Vrms: 228.22V    Irms: 0.1025A   Power: 23.389W
 kWh: 0.00345kWh  Bill: 0.04Rs
 Temperature: 28.50°C   Humidity: 60.30%
-```
 
----
 
-## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Contributing
 
@@ -185,18 +179,11 @@ Help make energy usage monitoring more accessible 💡⚡
 
 ---
 
-## 🔗 Related Projects
-
-* [ESP32 Firebase Sensor Logger](https://github.com/mobizt/Firebase-ESP32)
-* [ZMPT101B Calibration Guide](https://circuitdigest.com)
-
----
-
 ## 👨‍💻 Author
 
 **Riththikkan Sairam**
-🔗 [LinkedIn](https://www.linkedin.com) | ✉️ [riththikkansairam@gmail.com](mailto:riththikkansairam@gmail.com)
-Project by *ITSELF Automation*
+🔗 [LinkedIn](www.linkedin.com/in/riththikkansairam2002) | ✉️ [riththikkansairam@gmail.com](mailto:riththikkansairam@gmail.com)
+
 
 ---
 
