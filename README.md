@@ -1,5 +1,5 @@
 
-# ⚡ ESP32 IoT Energy Monitoring System
+# ⚡ Roomsync 2.0 – IoT-Based Smart Energy Audit and Environmental Monitoring System
 
 An advanced ESP32-based energy monitor that tracks voltage, current, power, energy (kWh), temperature, humidity, and **automatically calculates the electricity bill**. Data is displayed on an LCD and also sent to **Firebase Realtime Database** for remote monitoring.
 
